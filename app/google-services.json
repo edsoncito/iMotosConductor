@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "931248543192",
+    "firebase_url": "https://imoto-ff09c.firebaseio.com",
+    "project_id": "imoto-ff09c",
+    "storage_bucket": "imoto-ff09c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931248543192:android:8304c539c9153492",
+        "android_client_info": {
+          "package_name": "edson.com.imotosconductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931248543192-7403ee5de0uf93lrv17svok770pb4fi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2mcZLtRzCetoXkRIoxWsnBSO3hjuJyWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
